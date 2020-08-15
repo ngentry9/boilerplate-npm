@@ -1,6 +1,6 @@
 {
-	"author": "Nora Gentry", 
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nora Gentry",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
